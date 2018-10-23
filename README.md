@@ -3,9 +3,7 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 ## Angular persian datepicker with awesome features!
 
-[<img src="docs/assets/Capture.PNG">](https://kordeviant.github.io/mat-datepciker-module-persian/)
 
-[Demo Website](https://kordeviant.github.io/mat-datepciker-module-persian/)
 ### Prerequisites
 you should have @angular/material, @angular/cdk and moment-jalaali installed to your app
 
